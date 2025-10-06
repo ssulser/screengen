@@ -32,15 +32,15 @@ do while lines(filename)
     actual_line = linein(filename)
     do while length(actual_line) > 0
         if length(actual_line) > remaining_width then
-        do
+          do
             output_line = line_literal || "(" || remaining_width || ") " || '"' || substr(actual_line,1,remaining_width) || '".'
             actual_line = substr(actual_line, remaining_width + 1)
-        end
+          end
         else
-        do
+          do
             output_line = line_literal || "(" || length(actual_line) || ") " || '"' || actual_line || '".'
             actual_line = ''
-        end
+          end
         call lineout output_file, output_line
     end
 end
