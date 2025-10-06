@@ -1,0 +1,16 @@
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. TESTSCR.
+       
+       DATA DIVISION.
+       WORKING-STORAGE SECTION.
+       SCREEN SECTION.
+
+       COPY 'input.scr'.
+
+       PROCEDURE DIVISION.
+       0000-MAIN.
+           DISPLAY GENERATED-SCR.
+           ACCEPT GENERATED-SCR.
+           STOP RUN.
+
+       END PROGRAM TESTSCR.

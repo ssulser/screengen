@@ -1,0 +1,73 @@
+        01  GENERATED-SCR BLANK SCREEN.
+            03 FILLER PIC X(36) "+-----------------------------------".
+            03 FILLER PIC X(36) "------------------------------------".
+            03 FILLER PIC X(8) "-------+".
+            03 FILLER PIC X(36) "|  IBM SUPER COMPUTERS (C) 2025 - BY".
+            03 FILLER PIC X(36) " SIMON SULSER                       ".
+            03 FILLER PIC X(8) "       |".
+            03 FILLER PIC X(36) "|                                   ".
+            03 FILLER PIC X(36) "                                    ".
+            03 FILLER PIC X(8) "       |".
+            03 FILLER PIC X(36) "|                                   ".
+            03 FILLER PIC X(36) "                                    ".
+            03 FILLER PIC X(8) "       |".
+            03 FILLER PIC X(36) "|                                   ".
+            03 FILLER PIC X(36) "                                    ".
+            03 FILLER PIC X(8) "       |".
+            03 FILLER PIC X(36) "|             DATE:                 ".
+            03 FILLER PIC X(36) "                                    ".
+            03 FILLER PIC X(8) "       |".
+            03 FILLER PIC X(36) "|                                   ".
+            03 FILLER PIC X(36) "                                    ".
+            03 FILLER PIC X(8) "       |".
+            03 FILLER PIC X(36) "|             TIME:                 ".
+            03 FILLER PIC X(36) "                                    ".
+            03 FILLER PIC X(8) "       |".
+            03 FILLER PIC X(36) "|                                   ".
+            03 FILLER PIC X(36) "                                    ".
+            03 FILLER PIC X(8) "       |".
+            03 FILLER PIC X(36) "|                                   ".
+            03 FILLER PIC X(36) "                                    ".
+            03 FILLER PIC X(8) "       |".
+            03 FILLER PIC X(36) "|                                   ".
+            03 FILLER PIC X(36) "                                    ".
+            03 FILLER PIC X(8) "       |".
+            03 FILLER PIC X(36) "|                                   ".
+            03 FILLER PIC X(36) "                                    ".
+            03 FILLER PIC X(8) "       |".
+            03 FILLER PIC X(36) "|                                   ".
+            03 FILLER PIC X(36) "                                    ".
+            03 FILLER PIC X(8) "       |".
+            03 FILLER PIC X(36) "|                                   ".
+            03 FILLER PIC X(36) "                                    ".
+            03 FILLER PIC X(8) "       |".
+            03 FILLER PIC X(36) "|                                   ".
+            03 FILLER PIC X(36) "                                    ".
+            03 FILLER PIC X(8) "       |".
+            03 FILLER PIC X(36) "|                                   ".
+            03 FILLER PIC X(36) "                                    ".
+            03 FILLER PIC X(8) "       |".
+            03 FILLER PIC X(36) "|                                   ".
+            03 FILLER PIC X(36) "                                    ".
+            03 FILLER PIC X(8) "       |".
+            03 FILLER PIC X(36) "|                                   ".
+            03 FILLER PIC X(36) "                                    ".
+            03 FILLER PIC X(8) "       |".
+            03 FILLER PIC X(36) "|                                   ".
+            03 FILLER PIC X(36) "                                    ".
+            03 FILLER PIC X(8) "       |".
+            03 FILLER PIC X(36) "| MESSAGE ==> ______________________".
+            03 FILLER PIC X(36) "____________________________________".
+            03 FILLER PIC X(8) "______ |".
+            03 FILLER PIC X(36) "|                                   ".
+            03 FILLER PIC X(36) "                                    ".
+            03 FILLER PIC X(8) "       |".
+            03 FILLER PIC X(36) "|                                   ".
+            03 FILLER PIC X(36) "                                    ".
+            03 FILLER PIC X(8) "       |".
+            03 FILLER PIC X(36) "| PF1 = NEXT   PF2 = PREV   P3 = END".
+            03 FILLER PIC X(36) "                                    ".
+            03 FILLER PIC X(8) "       |".
+            03 FILLER PIC X(36) "+-----------------------------------".
+            03 FILLER PIC X(36) "------------------------------------".
+            03 FILLER PIC X(8) "-------+".
